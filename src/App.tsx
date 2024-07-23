@@ -1,5 +1,5 @@
-import ChatBotForm from "./components /chatForm";
-import RivePlayer from "./components /rivePlayer";
+import ChatBotForm from "./components/chatForm";
+import RivePlayer from "./components/rivePlayer";
 import biscuit from "./assets/biscuit.svg?url";
 function App() {
   return (
